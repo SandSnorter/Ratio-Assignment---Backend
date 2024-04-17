@@ -69,6 +69,8 @@ Use Postman or any similar tool to send a POST request:
 ## Expected Results
 After sending the POST request with the text, you should receive a JSON response from the server that includes the moderation results, such as the classifications of the content based on OpenAI's moderation models.
 
+![blurr](https://github.com/SandSnorter/Ratio-Assignment-Backend/assets/121429638/4939360c-a607-493b-b744-4fa126a94cdb)
+
 ## Troubleshooting
 In case of errors:
 - Ensure that the OPENAI_API_KEY is correctly set in the `.env` file.
